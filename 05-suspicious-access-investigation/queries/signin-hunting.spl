@@ -1,0 +1,20 @@
+``` Splunk versions of the same hunts. Assumes Entra ID sign-in logs are ingested with the
+    Splunk Add-on for Microsoft Cloud Services (Event Hub input). Field names depend on the
+    add-on and its version; adjust them to match your data. Run one search at a time. ```
+
+``` 1. One user's sign-ins over 30 days ```
+index=azure category=SignInLogs properties.userPrincipalName="jordan.reed@yourtenant.onmicrosoft.com" earliest=-30d
+| table _time properties.ipAddress properties.location.city properties.location.countryOrRegion properties.deviceDetail.operatingSystem properties.clientAppUsed properties.status.errorCode
+| sort - _time
+
+``` 2. Many failures, then a success, from one IP in the last day ```
+index=azure category=SignInLogs earliest=-1d
+| eval result=if('properties.status.errorCode'=0, "success", "failure")
+| stats count(eval(result="failure")) as failures count(eval(result="success")) as successes dc(properties.userPrincipalName) as users by properties.ipAddress
+| where failures>=5 AND successes>0
+
+``` 3. A country seen for a user only in the last day ```
+index=azure category=SignInLogs earliest=-30d
+| eval period=if(_time>=relative_time(now(), "-1d"), "today", "before")
+| stats values(period) as seen by properties.userPrincipalName properties.location.countryOrRegion
+| where mvcount(seen)=1 AND seen="today"

@@ -1,0 +1,21 @@
+// Every read of a vaulted password: who, when, from where.
+// Run in the Log Analytics workspace that receives the vault's audit logs.
+// Column names come from the AzureDiagnostics table and can differ slightly between tenants.
+AzureDiagnostics
+| where ResourceProvider == "MICROSOFT.KEYVAULT"
+| where OperationName == "SecretGet"
+| extend Secret = tostring(split(id_s, "/")[4])
+| project TimeGenerated, Secret, Caller = identity_claim_http_schemas_xmlsoap_org_ws_2005_05_identity_claims_upn_s,
+          CallerIPAddress, Result = ResultSignature
+| order by TimeGenerated desc
+
+// --- Alert idea: a vaulted password read outside business hours (Central time) ---
+// AzureDiagnostics
+// | where ResourceProvider == "MICROSOFT.KEYVAULT" and OperationName == "SecretGet"
+// | extend LocalHour = datetime_part("hour", datetime_utc_to_local(TimeGenerated, "America/Chicago"))
+// | where LocalHour < 7 or LocalHour > 19
+
+// --- Rotations: new secret versions written ---
+// AzureDiagnostics
+// | where ResourceProvider == "MICROSOFT.KEYVAULT" and OperationName == "SecretSet"
+// | project TimeGenerated, Secret = tostring(split(id_s, "/")[4]), CallerIPAddress

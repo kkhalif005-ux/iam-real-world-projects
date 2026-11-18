@@ -1,0 +1,5 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,StartDate,ManagerEmployeeID
+2001,Jordan,Reed,Finance,Accountant,2026-11-23,
+2002,Mary-Kate,O'Neil,Sales,Account Executive,2026-11-23,
+2003,Luis,Hernandez,IT,Helpdesk Technician,2026-11-23,
+2004,Amara,Okafor,Sales,Sales Manager,2026-11-23,

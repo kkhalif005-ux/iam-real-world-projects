@@ -1,0 +1,44 @@
+// Suspicious sign-in hunting in Microsoft Sentinel or Log Analytics.
+// Requires Entra ID sign-in logs sent to the workspace
+// (Entra admin center > Monitoring & health > Diagnostic settings > SigninLogs).
+
+// 1. One user's last 30 days: where, what device, what result
+let user = "jordan.reed@yourtenant.onmicrosoft.com";
+SigninLogs
+| where TimeGenerated > ago(30d) and UserPrincipalName =~ user
+| project TimeGenerated, IPAddress, City = tostring(LocationDetails.city),
+          Country = tostring(LocationDetails.countryOrRegion),
+          OS = tostring(DeviceDetail.operatingSystem), Browser = tostring(DeviceDetail.browser),
+          AppDisplayName, ClientAppUsed, ResultType, RiskLevelDuringSignIn
+| order by TimeGenerated desc
+
+// 2. Successful sign-ins from a country the user hasn't used in the previous 30 days
+// let lookback = SigninLogs
+//     | where TimeGenerated between (ago(31d) .. ago(1d)) and ResultType == 0
+//     | summarize KnownCountries = make_set(tostring(LocationDetails.countryOrRegion)) by UserPrincipalName;
+// SigninLogs
+// | where TimeGenerated > ago(1d) and ResultType == 0
+// | extend Country = tostring(LocationDetails.countryOrRegion)
+// | join kind=inner lookback on UserPrincipalName
+// | where not(set_has_element(KnownCountries, Country))
+// | project TimeGenerated, UserPrincipalName, Country, IPAddress, AppDisplayName
+
+// 3. Password spray or brute force: many failures, then a success, from one IP
+// SigninLogs
+// | where TimeGenerated > ago(1d)
+// | summarize Failures = countif(ResultType != 0), Successes = countif(ResultType == 0),
+//             Users = dcount(UserPrincipalName) by IPAddress
+// | where Failures >= 5 and Successes > 0
+// | order by Failures desc
+
+// 4. Sign-ins between midnight and 5 a.m. Central
+// SigninLogs
+// | where TimeGenerated > ago(7d) and ResultType == 0
+// | extend LocalHour = datetime_part("hour", datetime_utc_to_local(TimeGenerated, "America/Chicago"))
+// | where LocalHour < 5
+
+// 5. Legacy authentication (can't do MFA)
+// SigninLogs
+// | where TimeGenerated > ago(7d)
+// | where ClientAppUsed !in ("Browser", "Mobile Apps and Desktop clients")
+// | summarize count() by UserPrincipalName, ClientAppUsed, IPAddress

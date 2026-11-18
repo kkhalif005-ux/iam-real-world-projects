@@ -1,0 +1,7 @@
+Department,JobTitle,Groups
+Finance,Finance Manager,GRP-AllStaff;GRP-Finance-Users;GRP-Finance-Approvers
+Finance,Accountant,GRP-AllStaff;GRP-Finance-Users
+IT,IT Manager,GRP-AllStaff;GRP-IT-Users;GRP-IT-Helpdesk;GRP-IT-Admins-Eligible
+IT,Helpdesk Technician,GRP-AllStaff;GRP-IT-Users;GRP-IT-Helpdesk
+HR,HR Manager,GRP-AllStaff;GRP-HR-Users;GRP-HR-Confidential
+HR,HR Generalist,GRP-AllStaff;GRP-HR-Users

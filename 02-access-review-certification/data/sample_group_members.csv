@@ -1,0 +1,10 @@
+Group,UserId,DisplayName,UserPrincipalName,UserType,AccountEnabled,Department,JobTitle,LastSignIn,CreatedDateTime
+GRP-Finance-Approvers,0b6e2a10-0000-4000-8000-000000000001,Ava Johnson,ava.johnson@yourtenant.onmicrosoft.com,Member,True,Finance,Finance Manager,2026-11-17T14:02:00,2025-03-03T09:00:00
+GRP-Finance-Approvers,0b6e2a10-0000-4000-8000-000000000002,Marcus Lee,marcus.lee@yourtenant.onmicrosoft.com,Member,True,IT,Helpdesk Technician,2026-11-16T10:41:00,2025-03-03T09:00:00
+GRP-Finance-Users,0b6e2a10-0000-4000-8000-000000000001,Ava Johnson,ava.johnson@yourtenant.onmicrosoft.com,Member,True,Finance,Finance Manager,2026-11-17T14:02:00,2025-03-03T09:00:00
+GRP-Finance-Users,0b6e2a10-0000-4000-8000-000000000002,Marcus Lee,marcus.lee@yourtenant.onmicrosoft.com,Member,True,IT,Helpdesk Technician,2026-11-16T10:41:00,2025-03-03T09:00:00
+GRP-Finance-Users,0b6e2a10-0000-4000-8000-000000000004,Daniel Garcia,daniel.garcia@yourtenant.onmicrosoft.com,Member,False,IT,Helpdesk Technician,2026-11-13T16:20:00,2025-03-03T09:00:00
+GRP-Finance-Users,0b6e2a10-0000-4000-8000-000000000007,Olivia Martinez,olivia.martinez@yourtenant.onmicrosoft.com,Member,True,Finance,Accountant,2026-11-17T09:15:00,2026-11-14T09:00:00
+GRP-Finance-Users,0b6e2a10-0000-4000-8000-000000000008,Ethan Clark,ethan.clark@yourtenant.onmicrosoft.com,Member,True,Finance,Accountant,2026-06-02T11:30:00,2024-08-19T09:00:00
+GRP-Finance-Users,0b6e2a10-0000-4000-8000-000000000009,Nina Shah,nina.shah@yourtenant.onmicrosoft.com,Member,True,Finance,Accountant,,2026-11-10T09:00:00
+GRP-Finance-Users,0b6e2a10-0000-4000-8000-000000000010,Rosa Alvarez (Audit Firm),r.alvarez_auditfirm.com#EXT#@yourtenant.onmicrosoft.com,Guest,True,,,2026-10-29T13:05:00,2026-09-01T09:00:00

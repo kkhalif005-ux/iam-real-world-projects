@@ -1,0 +1,5 @@
+Department,JobTitle,Groups
+Finance,Accountant,GRP-AllStaff;APP-ExpenseTool-Users;APP-ERP-Finance
+Sales,Account Executive,GRP-AllStaff;APP-CRM-Users
+Sales,Sales Manager,GRP-AllStaff;APP-CRM-Users;APP-CRM-Reports
+IT,Helpdesk Technician,GRP-AllStaff;APP-ServiceDesk-Agents

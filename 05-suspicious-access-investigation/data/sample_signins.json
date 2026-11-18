@@ -1,0 +1,1252 @@
+[
+  {
+    "createdDateTime": "2026-10-19T13:09:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-20T12:52:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-20T21:03:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-21T13:02:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-21T17:15:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-22T12:35:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-22T21:07:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-23T13:40:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-23T17:36:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-26T14:03:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-26T18:18:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-27T14:09:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-27T19:35:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-28T13:06:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-28T18:23:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-29T12:35:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-29T17:39:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-30T13:31:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-10-30T19:29:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-02T15:23:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-02T19:44:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-03T14:05:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-03T21:56:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-04T14:46:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-04T18:07:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-05T15:10:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-05T21:26:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-06T13:42:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-09T14:21:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-09T21:37:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-10T15:04:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-11T15:44:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-11T23:44:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-12T14:41:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-13T15:18:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "174.53.200.14",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Saint Paul",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9537,
+        "longitude": -93.09
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-13T23:22:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-16T13:29:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-16T18:31:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-17T13:13:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-17T19:25:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "172.56.21.90",
+    "appDisplayName": "Microsoft Outlook",
+    "clientAppUsed": "Mobile Apps and Desktop clients",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "iOS 18",
+      "browser": "Mobile Safari"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T03:30:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "73.94.18.201",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Minneapolis",
+      "state": "",
+      "countryOrRegion": "US",
+      "geoCoordinates": {
+        "latitude": 44.9778,
+        "longitude": -93.265
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Windows 11",
+      "browser": "Edge 131.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:01:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Exchange Online",
+    "clientAppUsed": "IMAP4",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 50126,
+      "failureReason": "Invalid username or password"
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:02:13Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 50126,
+      "failureReason": "Invalid username or password"
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:03:26Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 50126,
+      "failureReason": "Invalid username or password"
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:04:39Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 50126,
+      "failureReason": "Invalid username or password"
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:05:52Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 50126,
+      "failureReason": "Invalid username or password"
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:07:05Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 50126,
+      "failureReason": "Invalid username or password"
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:08:18Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "none",
+    "status": {
+      "errorCode": 50126,
+      "failureReason": "Invalid username or password"
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:10:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Microsoft Office 365 Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "medium",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  },
+  {
+    "createdDateTime": "2026-11-18T08:15:00Z",
+    "userPrincipalName": "jordan.reed@yourtenant.onmicrosoft.com",
+    "ipAddress": "185.220.101.47",
+    "appDisplayName": "Microsoft Azure Portal",
+    "clientAppUsed": "Browser",
+    "riskLevelDuringSignIn": "medium",
+    "status": {
+      "errorCode": 0,
+      "failureReason": ""
+    },
+    "location": {
+      "city": "Bucharest",
+      "state": "",
+      "countryOrRegion": "RO",
+      "geoCoordinates": {
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      }
+    },
+    "deviceDetail": {
+      "operatingSystem": "Linux",
+      "browser": "Firefox 128.0"
+    }
+  }
+]
